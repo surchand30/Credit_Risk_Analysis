@@ -15,7 +15,6 @@ Using different sampling techniques, we are trying to understand which technique
 Balanced Accuracy Score : 0.66
 
 Precision : 0.01
-
 Sensitivity : 0.66
 
 2) SMOTE Oversampling :
