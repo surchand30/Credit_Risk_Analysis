@@ -10,4 +10,4 @@ Using different sampling techniques, we are trying to understand which technique
 
 1) Naive Random Oversampling :
 
-!Naive Random Oversampling [https://github.com/surchand30/Credit_Risk_Analysis/blob/main/images/Naive%20Random%20Oversampling.PNG]
+![Naive Random Oversampling](https://github.com/surchand30/Credit_Risk_Analysis/blob/main/images/Naive%20Random%20Oversampling.PNG)
