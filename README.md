@@ -12,9 +12,8 @@ Using different sampling techniques, we are trying to understand which technique
 
 ![Naive Random Oversampling](https://github.com/surchand30/Credit_Risk_Analysis/blob/main/images/Naive%20Random%20Oversampling.PNG)
 
-Balanced Accuracy Score : 0.66
-
-Precision : 0.01
+Balanced Accuracy Score : 0.66<br/>
+Precision : 0.01<br/>
 Sensitivity : 0.66
 
 2) SMOTE Oversampling :
