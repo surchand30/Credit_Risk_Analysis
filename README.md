@@ -20,38 +20,42 @@ Sensitivity : 0.66
 
 ![SMOTE oversampling](https://github.com/surchand30/Credit_Risk_Analysis/blob/main/images/SMOTE%20Oversampling.PNG)
 
-Balanced Accuracy Score : 0.63
-Precision : 0.01
-Sensitivity : 0.62
+Balanced Accuracy Score : 0.63<br/>
+Precision : 0.01<br/>
+Sensitivity : 0.62<br/>
 
 3) Undersampling:
 
 ![Undersampling](https://github.com/surchand30/Credit_Risk_Analysis/blob/main/images/Undersampling.PNG)
 
-Balanced Accuracy Score : 0.59
-Precision : 0.01
-Sensitivity : 0.61
+Balanced Accuracy Score : 0.59<br/>
+Precision : 0.01<br/>
+Sensitivity : 0.61<br/>
 
 4) Combination of Over and Undersampling:
 
 ![Over and Under Sampling](https://github.com/surchand30/Credit_Risk_Analysis/blob/main/images/Combination%20of%20Over%20and%20Undersampling.PNG)
 
-Balanced Accuracy Score : 0.66
-Precision : 0.01
-Sensitivity : 0.74
+Balanced Accuracy Score : 0.66<br/>
+Precision : 0.01<br/>
+Sensitivity : 0.74<br/>
 
 5) Balanced Random Forest Classifier:
 
 ![Balanced Random Forest Classifier](https://github.com/surchand30/Credit_Risk_Analysis/blob/main/images/Balanced%20Random%20Sample%20classifier.PNG)
 
-Balanced Accuracy Score : 0.78
-Precision : 0.04
-Sensitivity : 0.67
+Balanced Accuracy Score : 0.78<br/>
+Precision : 0.04<br/>
+Sensitivity : 0.67<br/>
 
 6) Easy Ensemble Classifier:
 
 ![Easy Ensemble Classifier](https://github.com/surchand30/Credit_Risk_Analysis/blob/main/images/Easy%20Ensemble%20Classifier.PNG)
 
-Balanced Accuracy Score : 0.93
-Precision : 0.07
-Sensitivity : 0.91
+Balanced Accuracy Score : 0.93<br/>
+Precision : 0.07<br/>
+Sensitivity : 0.91<br/>
+
+### Result : 
+
+On comparing the results of the 6 classification techniques mentioned above, Easy Ensemble ADA Classification technique seems to be the most effective algorithm to classify data. This technique had the highest Accuracy score, precision and sensitivity amongst all the other sampling techniques used.
